@@ -1,0 +1,24 @@
+.first{
+    height: 400px;
+    width: 900px;
+    box-shadow:100px 100px 100px green ;
+    background-color: black;
+}
+body{
+    background-color:bisque;
+    text-align: center;
+    font-family: verdana,sans-serif;
+}
+nav a{
+    background-color:green;
+    color: white;
+    text-decoration: none;
+    padding: 0 4px;
+    font-weight: 900;
+}
+hr{
+    border: dotted green 6px;
+    border-bottom: none;
+    width:100%;
+    margin: 40px auto;
+}
